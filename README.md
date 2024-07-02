@@ -5,7 +5,7 @@ Załączone pliki:
 - Plik raport_code.ipynb zawierający kod generujący statystyki i wykresy uwzględnione w raporcie.
 - Plik PDF zawierający gotowy raport.
 
-Opis raportu:
+## Opis raportu:
 1. Zadanie 1
    
 Cel: Przetestowanie hipotezy zerowej H_0: σ^2 = 1.5 na poziomie istotności α = 0.05 wobec hipotez alternatywnych:
