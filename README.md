@@ -9,15 +9,16 @@ Opis raportu:
 1. Zadanie 1
    
 Cel: Przetestowanie hipotezy zerowej H_0: σ^2 = 1.5 na poziomie istotności α = 0.05 wobec hipotez alternatywnych:
-   - H_1: σ^2 ≠ 1.5
-   - H_1: σ^2 > 1.5
-   - H_1: σ^2 < 1.5
+- H_1: σ^2 ≠ 1.5
+- H_1: σ^2 > 1.5
+- H_1: σ^2 < 1.5
      
 Metodologia: Dane pochodzą z populacji o rozkładzie normalnym (μ = 0.2, σ^2). Proces obejmuje wyznaczenie wartości testowej Z oraz obszarów krytycznych dla różnych wartości α.
+
 3. Zadanie 2
 
 Cel: Przetestowanie hipotezy zerowej H_0: μ = 1.5 na poziomie istotności α = 0.05 wobec hipotez alternatywnych:
-   - H_1: μ ≠ 1.5
+- H_1: μ ≠ 1.5
    - H_1: μ > 1.5
    - H_1: μ < 1.5
      
