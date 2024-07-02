@@ -7,7 +7,7 @@ Załączone pliki:
 
 Opis raportu:
 1. Zadanie 1
-   Cel: Przetestowanie hipotezy zerowej H_0: σ^2 = 1.5 na poziomie istotności α = 0.05 wobec hipotez alternatywnych:
+Cel: Przetestowanie hipotezy zerowej H_0: σ^2 = 1.5 na poziomie istotności α = 0.05 wobec hipotez alternatywnych:
    - H_1: σ^2 ≠ 1.5
    - H_1: σ^2 > 1.5
    - H_1: σ^2 < 1.5
